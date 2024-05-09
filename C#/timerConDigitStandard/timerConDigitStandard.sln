@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timerConDigitStandard", "timerConDigitStandard\timerConDigitStandard.csproj", "{49A19065-49D3-4649-9F18-428ED9813CCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49A19065-49D3-4649-9F18-428ED9813CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A19065-49D3-4649-9F18-428ED9813CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A19065-49D3-4649-9F18-428ED9813CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A19065-49D3-4649-9F18-428ED9813CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {630BED9E-F63B-45B6-AA12-1FE5E888C428}
+	EndGlobalSection
+EndGlobal

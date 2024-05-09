@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conversioneNumeriEsadecimali", "conversioneNumeriEsadecimali\conversioneNumeriEsadecimali.csproj", "{5134BEE1-0D07-4DDB-A95A-4C35474EADAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5134BEE1-0D07-4DDB-A95A-4C35474EADAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5134BEE1-0D07-4DDB-A95A-4C35474EADAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5134BEE1-0D07-4DDB-A95A-4C35474EADAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5134BEE1-0D07-4DDB-A95A-4C35474EADAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57D7C6B3-51FE-4F9D-B9B1-98580624AC06}
+	EndGlobalSection
+EndGlobal
